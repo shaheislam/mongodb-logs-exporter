@@ -1,0 +1,10 @@
+*.pyc
+.coverage
+.idea
+*.iml
+gradle*
+.gradle
+venv
+.vscode/
+.pytest_cache/
+terraform/.terraform/
